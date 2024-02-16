@@ -10,7 +10,7 @@ public class TestController {
 
 	@GetMapping("")
 	public String helloWorld() {
-		return "Hello World!";
+		return "Hello from another branch!";
 	}
 	
 	
